@@ -21,3 +21,11 @@ adding more info here
 | --------- | -------- | ----- |
 | Stalin | Pinas | stalin@hotmail.com |
 | --------- | -------- | ----- |
+
+```mermaid
+graph TD;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+```
