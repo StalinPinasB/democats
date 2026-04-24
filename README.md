@@ -16,3 +16,8 @@ adding more info here
 
 1. next purpose
 1. next purpose 
+
+| Fist name | Lastname | Email |
+| --------- | -------- | ----- |
+| Stalin | Pinas | stalin@hotmail.com |
+| --------- | -------- | ----- |
